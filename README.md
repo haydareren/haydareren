@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @haydareren
+
+- 👀 I'm working on Js right now. I'm working on React and React Native. I'm on Fronted, a software developer at Envepo software company. ...
+
+- 🌱 I spend my time learning react and react native and node js. ...
+
+- 💞️ I am happy to communicate with anyone with whom I can exchange ideas. ...
+
+- 📫 https://www.youtube.com/c/YolDünyası ,hhaydar.eeren@gmail.com ...
+
+With the awareness that we need to improve ourselves in the changing world,
+as Mustafa Kemal Atatürk said; Let's always keep in mind that the most real thing in life is science.
+
